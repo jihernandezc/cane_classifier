@@ -1,0 +1,1 @@
+worker: docker build -t cane-classifier-bot . && docker run cane-classifier-bot
